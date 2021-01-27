@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="author" content="Nikki Lydeen"/>
+        <meta name="viewport" content="width=device-width, initial-scale=0.80"/>
+        <link href="/css/main.css" rel="stylesheet"/>
+        <title>$title$</title>
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="header">
+                Networks: <a class="light-blue" href="http://diffyq.xyz$http_path$">Clearnet</a>&nbsp;/&nbsp;<a class="light-blue" href="http://y.diffyq.xyz$http_path$">Yggdrasil</a>&nbsp;/&nbsp;<a class="light-blue" href="http://hkjvyuc3asswxa7uxyalrnpqab4lyvzriu2rsq6jbjc2kaoabghq.b32.i2p$http_path$">I2P</a>
+            </div>
+            <div id="content">
+                <h1><a href="/" id="name">Nikki Lydeen</a></h1>
+                $if(front-page)$
+                    <h3>Last updated: $date$</h3>
+                    <hr/>
+                $else$
+                    <hr/>
+                    <h2>$title$</h2>
+                    $if(subtitle)$
+                        <h3>$subtitle$</h3>
+                    $endif$
+                    $if(date)$
+                        <h3>Last updated: $date$</h3>
+                    $endif$
+                    <hr/>
+                $endif$
+$body$
+                <hr/>
+                <div id="footer">
+                    My content is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 license</a> unless otherwise specified.
+                    The background photo was taken by <a href="https://www.pexels.com/photo/trees-covered-by-fog-4065578/">Stephane Hurbe</a> and is licensed under the <a href="https://www.pexels.com/license/">Pexels License</a>.
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
