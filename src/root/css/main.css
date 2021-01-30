@@ -20,7 +20,7 @@
 }
 
 #wrapper {
-    background-color: #e5e9f0f7;
+    background-color: #eceff4f7;
     box-shadow: 0 0 16px 0 #3b4252;
     font-family: Merriweather,serif;
     line-height: 1.5;
@@ -30,20 +30,12 @@
     overflow: hidden;
 }
 
-.light-blue {
-    color: #81a1c1 !important;
-}
-
 .centered {
     text-align: center;
 }
 
-.full-width {
-    width: 100%;
-}
-
-.half-width {
-    width: 50%;
+.light-blue {
+    color: #81a1c1 !important;
 }
 
 a {
