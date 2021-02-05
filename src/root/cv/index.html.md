@@ -8,6 +8,8 @@ date: 2020/08/22
 Nikki Lydeen <[nlydeen@gmu.edu](mailto:nlydeen@gmu.edu)>
 ([GPG public key](/nikki-lydeen.pgp.asc))
 
+ORCID iD: [0000-0003-0565-1614](https://orcid.org/0000-0003-0565-1614)
+
 Graduate Research Assistant, Climate Dynamics
 
 Dept. of Atmospheric, Oceanic, and Earth Sciences
