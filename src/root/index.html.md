@@ -10,7 +10,7 @@ Hello!
 My name is Nikki Lydeen.
 
 I've been a student in the [climate dynamics](https://science.gmu.edu/academics/departments-units/atmospheric-oceanic-earth-sciences/climate-dynamics-phd/) PhD program at George Mason University since August 2019.
-I'm currently investigating statistical learning algorithms for calibrating the [Community Earth System Model](https://cesm.ucar.edu/) (CESM2).
+I'm currently investigating statistical learning algorithms for estimating parameters in the [Community Earth System Model](https://cesm.ucar.edu/) (CESM2).
 You can find a complete account of my academic history in my [curriculum vitae](/cv/).
 
 I'm an ardent computer programmer and a hobbyist sysadmin.
