@@ -1,13 +1,13 @@
 ---
-title: Nikki Lydeen
+title: Matilde Ametrine
 front-page: true
-date: 2021/01/24
+date: 2021/06/19
 ---
 
 # About me
 
 Hello!
-My name is Nikki Lydeen.
+My name is Matilde Ametrine (formerly Nikki Lydeen).
 
 I've been a student in the [climate dynamics](https://science.gmu.edu/academics/departments-units/atmospheric-oceanic-earth-sciences/climate-dynamics-phd/) PhD program at George Mason University since August 2019.
 I'm currently investigating statistical learning algorithms for estimating parameters in the [Community Earth System Model](https://cesm.ucar.edu/) (CESM2).
@@ -24,8 +24,8 @@ I'd like to try caving someday, but I haven't had a chance yet.
 
 Email addresses:
 
-- [nikki@diffyq.xyz](mailto:nikki@diffyq.xyz) (personal)
+- [matilde@diffyq.xyz](mailto:matilde@diffyq.xyz) (personal)
 - [nlydeen@gmu.edu](mailto:nlydeen@gmu.edu) (academic)
 
 You may send me encrypted emails or verify my signatures with my
-[GPG public key](/nikki-lydeen.pgp.asc).
+[GPG public key](/matilde-ametrine.pgp.asc).

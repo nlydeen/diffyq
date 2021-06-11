@@ -5,8 +5,8 @@ date: 2020/08/22
 
 # Basic information
 
-Nikki Lydeen <[nlydeen@gmu.edu](mailto:nlydeen@gmu.edu)>
-([GPG public key](/nikki-lydeen.pgp.asc))
+Matilde Ametrine (formerly Nikki Lydeen) <[nlydeen@gmu.edu](mailto:nlydeen@gmu.edu)>
+([GPG public key](/matilde-ametrine.pgp.asc))
 
 ORCID iD: [0000-0003-0565-1614](https://orcid.org/0000-0003-0565-1614)
 
